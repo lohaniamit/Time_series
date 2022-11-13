@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "adeprod1.analytics-vpn.us.i01.c01.johndeerecloud.com",
+            "port": 5439,
+            "askForPassword": true,
+            "driver": "Redshift Driver (Dedicated ver)",
+            "name": "adwprod",
+            "database": "adwprod",
+            "username": "al61114"
+        }
+    ]
+}
